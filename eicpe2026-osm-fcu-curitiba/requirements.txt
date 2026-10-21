@@ -1,9 +1,0 @@
-geopandas>=1.0
-pandas
-numpy
-scipy
-matplotlib>=3.9
-pyarrow
-# opcional, para o I de Moran:
-esda
-libpysal
